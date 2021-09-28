@@ -1,7 +1,7 @@
 
 ![image](urlhere)
 
-Hello! My name is Luo Yu. I'm a iOS app developer from Wuhan, Hubei, China. I draw and read.
+Hello! My name is Luo Yu. I'm a software developer based Wuhan, China. I draw and read.
 
 Start my career Oct 2011 as iOS application developer.
 
